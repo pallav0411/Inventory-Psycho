@@ -1,0 +1,10 @@
+[2023-05-07 15:26:24,692][django.utils.autoreload.run_with_reloader():677] [INFO] Watching for file changes with StatReloader
+[2023-05-07 13:03:47,031][django.utils.autoreload.run_with_reloader():677] [INFO] Watching for file changes with StatReloader
+[2023-05-07 13:05:43,565][django.utils.autoreload.trigger_reload():266] [INFO] C:\Users\Pallav Tewari\OneDrive\Documents\Inventory Psycho\templates\node_modules\accessibility-developer-tools\scripts\parse_aria_schemas.py changed, reloading.
+[2023-05-07 13:05:46,791][django.utils.autoreload.run_with_reloader():677] [INFO] Watching for file changes with StatReloader
+[2023-05-07 13:05:56,724][django.utils.autoreload.trigger_reload():266] [INFO] C:\Users\Pallav Tewari\OneDrive\Documents\Inventory Psycho\templates\node_modules\accessibility-developer-tools\lib\closure-library\closure\bin\calcdeps.py changed, reloading.
+[2023-05-07 13:05:58,719][django.utils.autoreload.run_with_reloader():677] [INFO] Watching for file changes with StatReloader
+[2023-05-07 15:36:10,116][django.utils.autoreload.trigger_reload():266] [INFO] /GreaterWMS/templates/node_modules/accessibility-developer-tools/scripts/parse_aria_schemas.py changed, reloading.
+[2023-05-07 15:36:15,300][django.utils.autoreload.run_with_reloader():677] [INFO] Watching for file changes with StatReloader
+[2023-05-07 17:08:26,167][django.utils.autoreload.run_with_reloader():677] [INFO] Watching for file changes with StatReloader
+[2023-05-07 17:18:27,704][django.utils.autoreload.run_with_reloader():677] [INFO] Watching for file changes with StatReloader
